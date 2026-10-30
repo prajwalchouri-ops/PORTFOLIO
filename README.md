@@ -1,4 +1,4 @@
-<img width="4492" height="1305" alt="image" src="https://github.com/user-attachments/assets/30d8b38c-4de2-4aab-a79e-331bde07163f" /># PORTFOLIO
+
 BUILDING A NEW PORTFOLIO
 # Hi there, I'm Prajwal Chouri! 👋
 
